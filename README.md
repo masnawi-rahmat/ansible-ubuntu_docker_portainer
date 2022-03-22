@@ -3,7 +3,7 @@
 # this ansible playbook assumes that you:
 # (1) have the NOPASSWD auth at the remote node to execute commands otherwise please insert line 
 # "your_username" ALL=(ALL:ALL)       NOPASSWD: ALL" in /etc/sudoers.d
-# (2) are running a fresh install of ubuntu 20.04 vm
+# (2) are running a fresh install of ubuntu 20.04 x86 vm
 # (3) have opened port 9000 to your ubuntu vm
 # the objectives/tasks of this ansible playbook:
 # (1) install dependencies for docker and portainer installations
