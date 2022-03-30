@@ -1,4 +1,4 @@
-# ansible-ubuntu_docker_portainer
+# ansible_docker_and_portainer_ubuntu_install
 # ansible playbook to install docker and portainer in ubuntu 20.04
 # this ansible playbook assumes that you:
 # (1) have the NOPASSWD auth at the remote node to execute commands otherwise please insert line 
