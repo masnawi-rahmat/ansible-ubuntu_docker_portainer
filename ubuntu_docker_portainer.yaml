@@ -17,7 +17,7 @@
 # (2) key in your vm ip address and open port 9000 in the web address field (eg. 10.0.0.01:9000)
 
 ---
-- hosts:testserver
+- hosts: testserver
   become: true
   tasks:
 
